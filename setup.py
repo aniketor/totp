@@ -12,7 +12,7 @@ setup(
     author_email = "aniket.hande@protonmail.com",
     description = ("Time based OTP for auth gateways."),
     license = "MIT",
-    url = "https://github.com/pyizza/totp",
+    url = "https://github.com/aniketor/totp",
     packages=['totp', 'tests'],
     long_description=read('README.md'),
     classifiers=[
